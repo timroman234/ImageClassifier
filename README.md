@@ -99,7 +99,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Created by [Your Name].
+Created by Tim Roman.
 Feel free to open issues or submit pull requests!
 
 ***
